@@ -1,0 +1,5 @@
+2013-07-09 Release 0.1.1
+
+Bugfixes:
+- librarian-puppet does not understand semver 1.0.0 versions.
+https://github.com/rodjek/librarian-puppet/issues/70
